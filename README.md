@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Kelly Peilin Chan. You can contact me from:
+
+QQ/Wechat: 23110388@qq.com
+Email: kelly@vikadata.com
+
+[![mr-kelly's github stats](https://github-readme-stats.vercel.app/api?username=mr-kelly)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mr-kelly/mr-kelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
