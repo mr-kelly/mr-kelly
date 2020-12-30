@@ -8,9 +8,9 @@ I'm Kelly Peilin Chan. You can contact me:
 - Facebook: [Kelly Peilin CHan](https://www.facebook.com/kellypeilinchan)
 - Twitter: [@kellypchan](https://twitter.com/kellypchan)
 - LinkedIn: [Kelly Peilin Chan](https://www.linkedin.com/in/kellypeilinchan/)
-- Medium: [Kelly Peilin CHan](https://medium.com/@mrkelly)
+- Medium: [@mrkelly](https://medium.com/@mrkelly)
 - Instagram: [@kellypeilinchan](https://www.instagram.com/kellypeilinchan/)
-
+- YouTube: [@kelly](https://www.youtube.com/channel/UCOtfknBLF6OBlX0LqIkR4xw)
 
 [![mr-kelly's github stats](https://github-readme-stats.vercel.app/api?username=mr-kelly)](https://github.com/anuraghazra/github-readme-stats)
 
