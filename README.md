@@ -2,7 +2,8 @@
 
 I'm Kelly Peilin Chan. You can contact me:
 
-- QQ/Wechat: 23110388@qq.com
+- QQ: 23110388
+- Wechat: mrkelly
 - Email: kelly@vikadata.com
 - Vikadata:  https://vika.cn
 - Facebook: [Kelly Peilin CHan](https://www.facebook.com/kellypeilinchan)
