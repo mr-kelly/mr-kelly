@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Kelly Peilin Chan. You can contact me:
+😄 I'm Kelly Peilin Chan. Founder of Vikadata.
+
+📫 You can contact me:
 
 - QQ: 23110388
 - Wechat: mrkelly
