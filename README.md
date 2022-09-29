@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 I'm Kelly Peilin Chan. Founder of Vikadata.
+😄 I'm Kelly Peilin Chan. Founder of Vika, inc.
 
 📫 You can contact me:
 
