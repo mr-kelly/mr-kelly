@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 I'm Kelly Peilin Chan. Founder of Vika, inc.
+😄 I'm Kelly Peilin Chan. Founder of `APITable PTE. LTD` & `Vika, inc.`
 
 📫 You can contact me:
 
