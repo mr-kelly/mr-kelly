@@ -17,7 +17,8 @@
 - Vikadata:  https://vika.cn
 
 
-[![mr-kelly's github stats](https://github-readme-stats.vercel.app/api?username=mr-kelly)](https://github.com/anuraghazra/github-readme-stats)
+[![mr-kelly's github stats](https://github-readme-stats.vercel.app/api?username=mr-kelly)](https://github.com/mr-kelly)
+
 
 <!--
 **mr-kelly/mr-kelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
