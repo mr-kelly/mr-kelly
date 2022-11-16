@@ -6,7 +6,7 @@
 
 
 - Email: kelly@vikadata.com
-- Facebook: [Kelly Peilin CHan](https://www.facebook.com/kellypeilinchan)
+- Facebook: [Kelly Peilin Chan](https://www.facebook.com/kellypeilinchan)
 - Twitter: [@kellypchan](https://twitter.com/kellypchan)
 - LinkedIn: [Kelly Peilin Chan](https://www.linkedin.com/in/kellypeilinchan/)
 - Medium: [@mrkelly](https://medium.com/@mrkelly)
