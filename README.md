@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-😄 I'm Kelly Peilin Chan. Founder of `APITable PTE. LTD` & `Vika, inc.`
+😄 I'm Kelly Peilin Chan. 
+
+Full-stack engineer, full-stack product manager, founder of `APITable PTE. LTD`.
 
 📫 You can contact me:
 
 
-- Email: kelly@vikadata.com
+- Email: kelly@apitable.com
 - Facebook: [Kelly Peilin Chan](https://www.facebook.com/kellypeilinchan)
 - Twitter: [@kellypchan](https://twitter.com/kellypchan)
 - LinkedIn: [Kelly Peilin Chan](https://www.linkedin.com/in/kellypeilinchan/)
@@ -14,7 +16,6 @@
 - YouTube: [@kelly](https://www.youtube.com/channel/UCOtfknBLF6OBlX0LqIkR4xw)
 - QQ: 23110388
 - Wechat: mrkelly
-- Vikadata:  https://vika.cn
 
 
 [![mr-kelly's github stats](https://github-readme-stats.vercel.app/api?username=mr-kelly)](https://github.com/mr-kelly)
