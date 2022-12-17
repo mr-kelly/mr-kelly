@@ -2,7 +2,7 @@
 
 😄 I'm Kelly Peilin Chan. 
 
-Full-stack engineer, full-stack product manager, founder of `APITable PTE. LTD`.
+Full-stack engineer, full-stack product manager, founder of `APITable Ltd.`.
 
 📫 You can contact me:
 
@@ -14,7 +14,6 @@ Full-stack engineer, full-stack product manager, founder of `APITable PTE. LTD`.
 - Medium: [@mrkelly](https://medium.com/@mrkelly)
 - Instagram: [@kellypeilinchan](https://www.instagram.com/kellypeilinchan/)
 - YouTube: [@kelly](https://www.youtube.com/channel/UCOtfknBLF6OBlX0LqIkR4xw)
-- QQ: 23110388
 - Wechat: mrkelly
 
 
