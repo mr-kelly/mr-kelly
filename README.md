@@ -9,7 +9,7 @@ Full-stack engineer, full-stack product manager, founder of `APITable Ltd.`.
 
 - Email: kelly@apitable.com
 - Facebook: [Kelly Peilin Chan](https://www.facebook.com/kellypeilinchan)
-- Twitter: [@kellypchan](https://twitter.com/kellypchan)
+- Twitter: [@kellypeilinchan](https://twitter.com/kellypeilinchan)
 - LinkedIn: [Kelly Peilin Chan](https://www.linkedin.com/in/kellypeilinchan/)
 - Medium: [@mrkelly](https://medium.com/@mrkelly)
 - Instagram: [@kellypeilinchan](https://www.instagram.com/kellypeilinchan/)
