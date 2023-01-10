@@ -15,6 +15,7 @@ Full-stack engineer, full-stack product manager, work at `APITable Ltd.`.
 - Instagram: [@kellypeilinchan](https://www.instagram.com/kellypeilinchan/)
 - YouTube: [@kelly](https://www.youtube.com/channel/UCOtfknBLF6OBlX0LqIkR4xw)
 - Wechat: mrkelly
+- Cal.com: https://cal.com/mrkelly
 
 
 [![mr-kelly's github stats](https://github-readme-stats.vercel.app/api?username=mr-kelly)](https://github.com/mr-kelly)
