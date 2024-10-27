@@ -21,7 +21,7 @@ Full-stack engineer, full-stack product manager, work at `APITable Ltd.`.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mr-kelly?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![mr-kelly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrkelly&date=20241027)](https://github.com/mr-kelly)
+[![mr-kelly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrkelly&layout=compact)](https://github.com/mr-kelly)
 
 <!--
 **mr-kelly/mr-kelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
