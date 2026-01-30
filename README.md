@@ -13,8 +13,14 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity3D-000000?style=flat-square&logo=unity&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+![Claude](https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Kiro](https://img.shields.io/badge/-Kiro-FF6B6B?style=flat-square&logo=ai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/-OpenCode-2E7D32?style=flat-square&logo=code&logoColor=white)
 
 
 > Making powerful AGI accessible to everyone. Full-stack polyglot building Coding Agents as the path to AGI.
@@ -70,7 +76,7 @@
 [![Instagram](https://img.shields.io/badge/-@kellypeilinchan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kellypeilinchan/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mr-kelly)
 
-📧 **Email:** kelly@apitable.com  
+📧 **Email:** kelly@vikadata.com
 💬 **WeChat:** mrkelly  
 📅 **Schedule a call:** [cal.com/mrkelly](https://cal.com/mrkelly)  
 ✍️ **Blog:** [medium.com/@mrkelly](https://medium.com/@mrkelly)
