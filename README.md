@@ -80,10 +80,10 @@
 [![Instagram](https://img.shields.io/badge/-@kellypeilinchan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kellypeilinchan/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mr-kelly)
 
-📧 **Email:** kelly@vikadata.com
-💬 **WeChat:** mrkelly  
-📅 **Schedule a call:** [cal.com/mrkelly](https://cal.com/mrkelly)  
-✍️ **Blog:** [medium.com/@mrkelly](https://medium.com/@mrkelly)
+- 📧 **Email:** kelly@vikadata.com
+- 💬 **WeChat:** mrkelly  
+- 📅 **Schedule a call:** [cal.com/mrkelly](https://cal.com/mrkelly)  
+- ✍️ **Blog:** [medium.com/@mrkelly](https://medium.com/@mrkelly)
 
 ---
 
