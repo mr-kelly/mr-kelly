@@ -53,6 +53,7 @@
 - ⚙️ **[KEngine](https://github.com/mr-kelly/KEngine)** - Unity asset bundle framework with LGPL license
 - 📋 **[TableML](https://github.com/mr-kelly/TableML)** - DataTable-based Markup Language for C# & Mono & Unity
 - 📦 **[Resources Packer](https://github.com/mr-kelly/resources_packer)** - Python-based resources package generator for game development
+- 🍵 **[Heytea GO](https://apps.apple.com/us/app/heytea/id6468945008)** - Official app for online ordering and pickup
 - 📝 **[Unity Realtime Log](https://github.com/mr-kelly/unity_realtime_log)** - Unity realtime log in command line (batchmode)
 
 ## GitHub Activity
