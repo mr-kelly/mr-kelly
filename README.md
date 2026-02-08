@@ -45,6 +45,11 @@
 - 🦄 **[Bika.ai](https://bika.ai)** - AI team messenger for agentic workflows - chat with multiple agents to get work done
 - 🎮 **[KSFramework](https://github.com/mr-kelly/KSFramework)** - Unity3D Framework with hot reload support (1k+ ⭐)
 - 🎯 **[SLua](https://github.com/pangweiwei/slua)** - Fastest lua binding via static code generating for Unity3D and Mono (1k+ ⭐)
+
+## Legacy Projects
+
+- 🌐 **qiyiguo.cc** - Group-centric social network for university campuses — a privatized Twitter-like platform
+- 📚 **before18** - Social app for students under 18 — a small social network for studying together in libraries
 - ⚙️ **[KEngine](https://github.com/mr-kelly/KEngine)** - Unity asset bundle framework with LGPL license
 - 📋 **[TableML](https://github.com/mr-kelly/TableML)** - DataTable-based Markup Language for C# & Mono & Unity
 - 📦 **[Resources Packer](https://github.com/mr-kelly/resources_packer)** - Python-based resources package generator for game development
