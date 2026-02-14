@@ -44,9 +44,9 @@
 - 🛠️ **[ToolSDK MCP Registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry)** - Awesome MCP Servers and Packages Registry with OAuth2.1 support (161 ⭐)
 - 🌍 **[GAIA Agent](https://github.com/gaia-agent/gaia-agent)** - GAIA-benchmark-ready super agent built on AI SDK v6 ToolLoopAgent
 - 🎮 **[KSFramework](https://github.com/mr-kelly/KSFramework)** - Unity3D Framework with hot reload support (1.8k ⭐)
-- 🎯 **[SLua](https://github.com/pangweiwei/slua)** - Fastest lua binding via static code generating for Unity3D and Mono (1.4k ⭐)
-
 ## Legacy Projects
+
+- 🎯 **[SLua](https://github.com/pangweiwei/slua)** - Fastest lua binding via static code generating for Unity3D and Mono (1.4k ⭐)
 
 - 🌐 **qiyiguo.cc** - Group-centric social network for university campuses — a privatized Twitter-like platform
 - 📚 **before18** - Social app for students under 18 — a small social network for studying together in libraries
