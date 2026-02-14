@@ -47,6 +47,7 @@
 ## Legacy Projects
 
 - 🎯 **[SLua](https://github.com/pangweiwei/slua)** - Fastest lua binding via static code generating for Unity3D and Mono (1.4k ⭐)
+- 🎮 **[Strike Goddess](https://www.kazegames.com/post/strike-goddess)** - Strike Shooting Card RPG, released in 2016 and operated for 2 years
 
 - 🌐 **qiyiguo.cc** - Group-centric social network for university campuses — a privatized Twitter-like platform
 - 📚 **before18** - Social app for students under 18 — a small social network for studying together in libraries
