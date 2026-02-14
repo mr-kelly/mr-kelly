@@ -30,21 +30,21 @@
 > Making powerful AGI accessible to everyone. Full-stack polyglot building Coding Agents as the path to AGI.
 ## Projects
 
-- 🌍 **[GAIA Agent](https://github.com/gaia-agent/gaia-agent)** - GAIA-benchmark-ready super agent built on AI SDK v6 ToolLoopAgent
-- 🛠️ **[ToolSDK MCP Registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry)** - Awesome MCP Servers and Packages Registry with OAuth2.1 support
 - 🐳 **[Sandock](https://sandock.ai)** - Sandbox in Dockers for AI Agents - 100% POSIX-compatible sandbox supporting full Claude Code execution
 - 🎯 **[ProductReady](https://productready.dev)** - Production-ready Next.js boilerplate with native AI Agent, MCP, and enterprise features
-- 📬 **[MailDrone](https://maildrone.ai)** - AI-powered email marketing tool with unlimited contacts and pay-per-send pricing
+- 🤖 **[AITable.ai](https://aitable.ai)** - AI-powered workflow automation with visual database connecting 6,000+ apps (10,000+ customers)
+- 📊 **[Vika](https://vika.cn)** - Chinese version of APITable with 1M+ users - AI-powered visual database and collaboration platform
+- 🚀 **[APITable](https://github.com/apitable/apitable)** - API-oriented low-code platform for building collaborative apps (15k+ ⭐)
+- 🦄 **[Bika.ai](https://bika.ai)** - AI team messenger for agentic workflows - chat with multiple agents to get work done
+- 📬 **[MailDrone](https://maildrone.ai)** - AI-powered email marketing tool with unlimited contacts and pay-per-send pricing (1000+ users)
 - 📊 **[NPSChimp](https://npschimp.com)** - The simplest NPS survey tool for growing products and SaaS teams
+- 📰 **[GeoDrone](https://geodrone.app)** - Turn one topic into a fully-optimized SEO article
 - 👁️ **[PreviewFile](https://previewfile.dev)** - Guard your files with effortless previews
 - 💾 **[LastBackup](https://lastbackup.dev)** - Modern database backup solution for PostgreSQL, MySQL, MongoDB with web interface
-- 📰 **[GeoDrone](https://geodrone.app)** - Turn one topic into a fully-optimized SEO article
-- 🚀 **[APITable](https://github.com/apitable/apitable)** - API-oriented low-code platform for building collaborative apps (15k+ ⭐)
-- 🤖 **[AITable.ai](https://aitable.ai)** - AI-powered workflow automation with visual database connecting 6,000+ apps
-- 📊 **[Vika](https://vika.cn)** - Chinese version of APITable with 1M+ users - AI-powered visual database and collaboration platform
-- 🦄 **[Bika.ai](https://bika.ai)** - AI team messenger for agentic workflows - chat with multiple agents to get work done
-- 🎮 **[KSFramework](https://github.com/mr-kelly/KSFramework)** - Unity3D Framework with hot reload support (1k+ ⭐)
-- 🎯 **[SLua](https://github.com/pangweiwei/slua)** - Fastest lua binding via static code generating for Unity3D and Mono (1k+ ⭐)
+- 🛠️ **[ToolSDK MCP Registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry)** - Awesome MCP Servers and Packages Registry with OAuth2.1 support (161 ⭐)
+- 🌍 **[GAIA Agent](https://github.com/gaia-agent/gaia-agent)** - GAIA-benchmark-ready super agent built on AI SDK v6 ToolLoopAgent
+- 🎮 **[KSFramework](https://github.com/mr-kelly/KSFramework)** - Unity3D Framework with hot reload support (1.8k ⭐)
+- 🎯 **[SLua](https://github.com/pangweiwei/slua)** - Fastest lua binding via static code generating for Unity3D and Mono (1.4k ⭐)
 
 ## Legacy Projects
 
