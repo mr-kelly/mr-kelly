@@ -27,7 +27,7 @@
 ![OpenCode](https://img.shields.io/badge/-OpenCode-2E7D32?style=flat-square&logo=code&logoColor=white)
 
 
-> Making powerful AGI accessible to everyone. Full-stack polyglot building Coding Agents as the path to AGI.
+> Coding Agent is Eating The World. Making powerful AGI accessible to everyone — applying Coding Agents to simplify every industry.
 ## Projects
 
 - 🐳 **[Sandock](https://sandock.ai)** - Sandbox in Dockers for AI Agents - 100% POSIX-compatible sandbox supporting full Claude Code execution
