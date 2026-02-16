@@ -28,10 +28,6 @@
 
 
 > Making powerful AGI accessible to everyone. Full-stack polyglot building Coding Agents as the path to AGI.
-## Research
-
-- 📄 **[File-Augmented Retrieval (FAR)](https://zenodo.org/records/18657244)** - Making every file readable to coding agents via persistent `.meta` sidecars — a file-time augmentation paradigm that outperforms RAG (82.6% vs 58.7% accuracy) with zero infrastructure
-
 ## Projects
 
 - 🐳 **[Sandock](https://sandock.ai)** - Sandbox in Dockers for AI Agents - 100% POSIX-compatible sandbox supporting full Claude Code execution
@@ -60,6 +56,10 @@
 - 📦 **[Resources Packer](https://github.com/mr-kelly/resources_packer)** - Python-based resources package generator for game development
 - 🍵 **[Heytea GO](https://apps.apple.com/us/app/heytea/id6468945008)** - Official app for online ordering and pickup
 - 📝 **[Unity Realtime Log](https://github.com/mr-kelly/unity_realtime_log)** - Unity realtime log in command line (batchmode)
+
+## Research
+
+- 📄 **[File-Augmented Retrieval (FAR)](https://zenodo.org/records/18657244)** - Making every file readable to coding agents via persistent `.meta` sidecars — a file-time augmentation paradigm that outperforms RAG (82.6% vs 58.7% accuracy) with zero infrastructure
 
 ## GitHub Activity
 
