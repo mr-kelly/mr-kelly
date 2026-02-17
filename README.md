@@ -60,7 +60,7 @@
 ## Research
 
 - 📄 **[File-Augmented Retrieval (FAR)](https://zenodo.org/records/18657244)** - Making every file readable to coding agents via persistent `.meta` sidecars — a file-time augmentation paradigm that outperforms RAG (82.6% vs 58.7% accuracy) with zero infrastructure
-- 📄 **[Coding Agent is All You Need](https://zenodo.org/records/18670665)** - Unifying General-Purpose and Domain-Specific AI Through the Meta-Agent Paradigm
+- 📄 **[Coding Agent is All You Need](https://zenodo.org/records/18670665)** - Don't build agents, redirect them — transforming coding agents into domain experts via Markdown templates, reducing development effort by ~300x
 
 ## GitHub Activity
 
