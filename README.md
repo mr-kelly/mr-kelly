@@ -22,9 +22,9 @@
 ![Claude](https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![Kiro](https://img.shields.io/badge/-Kiro-FF6B6B?style=flat-square&logo=ai&logoColor=white)
-![OpenCode](https://img.shields.io/badge/-OpenCode-2E7D32?style=flat-square&logo=code&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openaigym&logoColor=white)
+![Kiro](https://img.shields.io/badge/-Kiro-FF6B6B?style=flat-square&logo=probot&logoColor=white)
+![OpenCode](https://img.shields.io/badge/-OpenCode-2E7D32?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
 
 > Coding Agent is Eating The World. Making powerful AGI accessible to everyone — applying Coding Agents to simplify every industry.
