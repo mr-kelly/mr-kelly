@@ -59,8 +59,10 @@
 
 ## Research
 
-- 📄 **[File-Augmented Retrieval (FAR)](https://zenodo.org/records/18657244)** - Making every file readable to coding agents via persistent `.meta` sidecars — a file-time augmentation paradigm that outperforms RAG (82.6% vs 58.7% accuracy) with zero infrastructure
-- 📄 **[Coding Agent is All You Need](https://zenodo.org/records/18670665)** - Don't build agents, redirect them — transforming coding agents into domain experts via Markdown templates, reducing development effort by ~300x
+- 📄 **File-Augmented Retrieval: Making Every File Readable to Coding Agents via Persistent .meta Sidecars** — A file-time augmentation paradigm that outperforms RAG (82.6% vs 58.7% accuracy) with zero infrastructure · [Zenodo](https://zenodo.org/records/18657244) · [PDF](https://mr-kelly.github.io/research/File-Augmented%20Retrieval%20-%20Making%20Every%20File%20Readable%20to%20Coding%20Agents%20via%20Persistent%20.meta%20Sidecars.pdf)
+- 📄 **Coding Agent is All You Need: Don't Build Agents, Redirect Them** — Transforming coding agents into domain experts via Markdown templates, reducing development effort by ~300x · [Zenodo](https://zenodo.org/records/18670665) · [PDF](https://mr-kelly.github.io/research/Coding%20Agent%20is%20All%20You%20Need%20-%20Don't%20Build%20Agents%2C%20Redirect%20Them.pdf)
+- 📄 **Magic Folder: A Filesystem-Level Abstraction for Human-Executable AI Applications** — MFP transforms AI-generated project directories into typed, human-facing artifacts · [PDF](https://mr-kelly.github.io/research/Magic%20Folder%20-%20A%20Filesystem-Level%20Abstraction%20for%20Human-Executable%20AI%20Applications.pdf)
+- 📄 **SIR-T2V: From Agent Pipeline to Editable Project** — AI should output editable project files, not final rendered artifacts — reduces human correction cost by 4.7× · [PDF](https://mr-kelly.github.io/research/SIR-T2V%20-%20From%20Agent%20Pipeline%20to%20Editable%20Project.pdf)
 
 ## GitHub Activity
 
