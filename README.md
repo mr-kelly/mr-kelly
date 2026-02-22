@@ -30,6 +30,7 @@
 > Coding Agent is Eating The World. Making powerful AGI accessible to everyone — applying Coding Agents to simplify every industry.
 ## Projects
 
+- 🏖️ **[Mato](https://github.com/mr-kelly/mato)** - The Multi-Agent Terminal Office
 - 🐳 **[Sandock](https://sandock.ai)** - Sandbox in Dockers for AI Agents - 100% POSIX-compatible sandbox supporting full Claude Code execution
 - 🎯 **[ProductReady](https://productready.dev)** - Production-ready Next.js boilerplate with native AI Agent, MCP, and enterprise features
 - 🤖 **[AITable.ai](https://aitable.ai)** - AI-powered workflow automation with visual database connecting 6,000+ apps (10,000+ customers)
