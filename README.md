@@ -31,6 +31,7 @@
 ## Projects
 
 - 🏖️ **[Mato](https://github.com/mr-kelly/mato)** - The Multi-Agent Terminal Office
+- 💻 **[FreeCode](https://github.com/mr-kelly/freecode)**
 - 🐳 **[Sandock](https://sandock.ai)** - Sandbox in Dockers for AI Agents - 100% POSIX-compatible sandbox supporting full Claude Code execution
 - 🎯 **[ProductReady](https://productready.dev)** - Production-ready Next.js boilerplate with native AI Agent, MCP, and enterprise features
 - 🤖 **[AITable.ai](https://aitable.ai)** - AI-powered workflow automation with visual database connecting 6,000+ apps (10,000+ customers)
