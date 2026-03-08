@@ -31,7 +31,9 @@
 ## Projects
 
 - 🏖️ **[Mato](https://github.com/mr-kelly/mato)** - The Multi-Agent Terminal Office
+- 📁 **[far](https://github.com/mr-kelly/far)** - File-Augmented Retrieval for making every file readable to coding agents
 - 💻 **[FreeCode](https://github.com/mr-kelly/freecode)** - A minimal autonomous coding agent in Rust (~300 lines, $0, and auto-selects the best free model)
+- 🧠 **[skills](https://github.com/mr-kelly/skills)** - Agent Skills by mr-kelly
 - 🐳 **[Sandock](https://sandock.ai)** - Sandbox in Dockers for AI Agents - 100% POSIX-compatible sandbox supporting full Claude Code execution
 - 🎯 **[ProductReady](https://productready.dev)** - Production-ready Next.js boilerplate with native AI Agent, MCP, and enterprise features
 - 🤖 **[AITable.ai](https://aitable.ai)** - AI-powered workflow automation with visual database connecting 6,000+ apps (10,000+ customers)
