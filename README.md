@@ -34,6 +34,7 @@
 - 📁 **[far](https://github.com/mr-kelly/far)** - File-Augmented Retrieval for making every file readable to coding agents
 - 💻 **[FreeCode](https://github.com/mr-kelly/freecode)** - A minimal autonomous coding agent in Rust (~300 lines, $0, and auto-selects the best free model)
 - 🧠 **[skills](https://github.com/mr-kelly/skills)** - Agent Skills by mr-kelly
+- 🪷 **[Buda AI](https://buda.im)** - Agentic workspace where skills bundle local apps (App-in-Skill) — marketplace, channels, workbench, and developer portal for human-in-the-loop AI workflows
 - 🐳 **[Sandock](https://sandock.ai)** - Sandbox in Dockers for AI Agents - 100% POSIX-compatible sandbox supporting full Claude Code execution
 - 🎯 **[ProductReady](https://productready.dev)** - Production-ready Next.js boilerplate with native AI Agent, MCP, and enterprise features
 - 🤖 **[AITable.ai](https://aitable.ai)** - AI-powered workflow automation with visual database connecting 6,000+ apps (10,000+ customers)
@@ -63,6 +64,7 @@
 
 ## Research
 
+- 📄 **App-in-Skill: A Specification for Turning Agent Skills into Human-Operable Workflow Tools** — A skill that can launch a local UI over a file handoff; defines the pattern as a minimal specification (not a single app shape) and argues for "daily-disposable software" · [PDF](https://mr-kelly.github.io/research/App-in-Skill%20-%20A%20Specification%20for%20Turning%20Agent%20Skills%20into%20Human-Operable%20Workflow%20Tools.pdf)
 - 📄 **File-Augmented Retrieval: Making Every File Readable to Coding Agents via Persistent .meta Sidecars** — A file-time augmentation paradigm that outperforms RAG (82.6% vs 58.7% accuracy) with zero infrastructure · [Zenodo](https://zenodo.org/records/18657244) · [PDF](https://mr-kelly.github.io/research/File-Augmented%20Retrieval%20-%20Making%20Every%20File%20Readable%20to%20Coding%20Agents%20via%20Persistent%20.meta%20Sidecars.pdf)
 - 📄 **Coding Agent is All You Need: Don't Build Agents, Redirect Them** — Transforming coding agents into domain experts via Markdown templates, reducing development effort by ~300x · [Zenodo](https://zenodo.org/records/18670665) · [PDF](https://mr-kelly.github.io/research/Coding%20Agent%20is%20All%20You%20Need%20-%20Don't%20Build%20Agents%2C%20Redirect%20Them.pdf)
 - 📄 **Magic Folder: A Filesystem-Level Abstraction for Human-Executable AI Applications** — MFP transforms AI-generated project directories into typed, human-facing artifacts · [PDF](https://mr-kelly.github.io/research/Magic%20Folder%20-%20A%20Filesystem-Level%20Abstraction%20for%20Human-Executable%20AI%20Applications.pdf)
