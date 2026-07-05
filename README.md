@@ -33,7 +33,7 @@
 - 🏖️ **[Mato](https://github.com/mr-kelly/mato)** - The Multi-Agent Terminal Office
 - 📁 **[far](https://github.com/mr-kelly/far)** - File-Augmented Retrieval for making every file readable to coding agents
 - 💻 **[FreeCode](https://github.com/mr-kelly/freecode)** - A minimal autonomous coding agent in Rust (~300 lines, $0, and auto-selects the best free model)
-- 🧠 **[skills](https://github.com/mr-kelly/skills)** - Agent Skills by mr-kelly
+- 🧠 **[skills](https://github.com/mr-kelly/skills)** - App-in-Skill business tools for daily ops (email, money, CRM, PR review, short-drama & MV production) — each bundling a local review UI for human-in-the-loop approval · [browse](https://mr-kelly.github.io/skills/)
 - 🪷 **[Buda AI](https://buda.im)** - Agentic workspace where skills bundle local apps (App-in-Skill) — marketplace, channels, workbench, and developer portal for human-in-the-loop AI workflows
 - 🐳 **[Sandock](https://sandock.ai)** - Sandbox in Dockers for AI Agents - 100% POSIX-compatible sandbox supporting full Claude Code execution
 - 🎯 **[ProductReady](https://productready.dev)** - Production-ready Next.js boilerplate with native AI Agent, MCP, and enterprise features
