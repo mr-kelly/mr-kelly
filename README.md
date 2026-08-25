@@ -34,8 +34,12 @@
 - 📁 **[far](https://github.com/mr-kelly/far)** - File-Augmented Retrieval for making every file readable to coding agents
 - 💻 **[FreeCode](https://github.com/mr-kelly/freecode)** - A minimal autonomous coding agent in Rust (~300 lines, $0, and auto-selects the best free model)
 - 🧠 **[skills](https://github.com/mr-kelly/skills)** - App-in-Skill business tools for daily ops (email, money, CRM, PR review, short-drama & MV production) — each bundling a local review UI for human-in-the-loop approval · [browse](https://mr-kelly.github.io/skills/)
+- 🎧 **[Jam Coding](https://kellychan.im/jam-coding/)** - An open practice for scheduling human time while coding agents work — size the block, leave the screen, and come back when the run is done
 - 🌐 **[ts7-i18n](https://github.com/mr-kelly/ts7-i18n)** - Type-safe i18n that runs on TypeScript 7 — no codegen, no CLI, no TypeScript-compiler-API dependency
 - 🔌 **[acp-ui](https://github.com/mr-kelly/acp-ui)** - A headless, renderer-free interaction layer for ACP (Agent Client Protocol) agent chat
+- 🗃️ **[Busabase](https://github.com/busabase/busabase)** - Local-first, self-hostable database and knowledge base for reviewing, approving, and merging AI-generated changes · [website](https://busabase.com)
+- 🤖 **[Bunny Agent](https://github.com/buda-ai/bunny-agent)** - A coding agent that runs anywhere — daily CLI, native AI SDK UI, remote sandbox, and a foundation for building agent products
+- 🔀 **[ACP Router](https://github.com/acprouter/acprouter)** - Make local ACP coding agents reachable from browsers, teams, and remote products without opening inbound ports
 - 🪷 **[Buda AI](https://buda.im)** - Agentic workspace where skills bundle local apps (App-in-Skill) — marketplace, channels, workbench, and developer portal for human-in-the-loop AI workflows
 - 🐳 **[Sandock](https://sandock.ai)** - Sandbox in Dockers for AI Agents - 100% POSIX-compatible sandbox supporting full Claude Code execution
 - 🎯 **[ProductReady](https://productready.dev)** - Production-ready Next.js boilerplate with native AI Agent, MCP, and enterprise features
