@@ -34,6 +34,8 @@
 - 📁 **[far](https://github.com/mr-kelly/far)** - File-Augmented Retrieval for making every file readable to coding agents
 - 💻 **[FreeCode](https://github.com/mr-kelly/freecode)** - A minimal autonomous coding agent in Rust (~300 lines, $0, and auto-selects the best free model)
 - 🧠 **[skills](https://github.com/mr-kelly/skills)** - App-in-Skill business tools for daily ops (email, money, CRM, PR review, short-drama & MV production) — each bundling a local review UI for human-in-the-loop approval · [browse](https://mr-kelly.github.io/skills/)
+- 🌐 **[ts7-i18n](https://github.com/mr-kelly/ts7-i18n)** - Type-safe i18n that runs on TypeScript 7 — no codegen, no CLI, no TypeScript-compiler-API dependency
+- 🔌 **[acp-ui](https://github.com/mr-kelly/acp-ui)** - A headless, renderer-free interaction layer for ACP (Agent Client Protocol) agent chat
 - 🪷 **[Buda AI](https://buda.im)** - Agentic workspace where skills bundle local apps (App-in-Skill) — marketplace, channels, workbench, and developer portal for human-in-the-loop AI workflows
 - 🐳 **[Sandock](https://sandock.ai)** - Sandbox in Dockers for AI Agents - 100% POSIX-compatible sandbox supporting full Claude Code execution
 - 🎯 **[ProductReady](https://productready.dev)** - Production-ready Next.js boilerplate with native AI Agent, MCP, and enterprise features
