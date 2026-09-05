@@ -38,6 +38,9 @@
 - 🌐 **[ts7-i18n](https://github.com/mr-kelly/ts7-i18n)** - Type-safe i18n that runs on TypeScript 7 — no codegen, no CLI, no TypeScript-compiler-API dependency
 - 🔌 **[acp-ui](https://github.com/mr-kelly/acp-ui)** - A headless, renderer-free interaction layer for ACP (Agent Client Protocol) agent chat
 - 🗃️ **[Busabase](https://github.com/busabase/busabase)** - Local-first, self-hostable database and knowledge base for reviewing, approving, and merging AI-generated changes · [website](https://busabase.com)
+- 🔗 **[n8n Nodes for Busabase](https://github.com/busabase/n8n-nodes-busabase)** - n8n community node with record CRUD actions and signed instant triggers for Busabase · [npm](https://www.npmjs.com/package/n8n-nodes-busabase)
+- 🧱 **[Kysely for Busabase](https://github.com/busabase/kysely-busabase)** - Kysely dialect that translates typed queries into Busabase SDK REST calls · [npm](https://www.npmjs.com/package/kysely-busabase)
+- 💧 **[Drizzle for Busabase](https://github.com/busabase/drizzle-busabase)** - Drizzle ORM driver that brings typed schemas and queries to Busabase Bases · [npm](https://www.npmjs.com/package/drizzle-busabase)
 - 🤖 **[Bunny Agent](https://github.com/buda-ai/bunny-agent)** - A coding agent that runs anywhere — daily CLI, native AI SDK UI, remote sandbox, and a foundation for building agent products
 - 🔀 **[ACP Router](https://github.com/acprouter/acprouter)** - Make local ACP coding agents reachable from browsers, teams, and remote products without opening inbound ports
 - 🪷 **[Buda AI](https://buda.im)** - Agentic workspace where skills bundle local apps (App-in-Skill) — marketplace, channels, workbench, and developer portal for human-in-the-loop AI workflows
